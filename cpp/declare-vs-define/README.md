@@ -1,4 +1,4 @@
-# !(Declare vs Define in C and C++)[https://www.cprogramming.com/declare_vs_define.html]
+# [Declare vs Define in C and C++](https://www.cprogramming.com/declare_vs_define.html)
 
 ## Foreword
 In C and C++, there is a subtle but important distinction between the meaning
