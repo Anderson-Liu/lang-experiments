@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cpp data-type/example.cpp)
+add_executable(cpp pointer/example.cpp)
