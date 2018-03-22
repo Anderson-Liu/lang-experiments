@@ -28,5 +28,9 @@ int main() {
     // the pointer after it is freed, you will find out immediately
     // because the program will crash.
     pNewInt = nullptr;
+
+    auto *pNewNumbers = new int[8];
+    delete[] pNewNumbers;
+    pNewNumbers = nullptr;
 }
 
