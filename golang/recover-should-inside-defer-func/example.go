@@ -1,0 +1,1 @@
+package panic_should_inside_defer_func

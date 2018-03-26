@@ -1,0 +1,1 @@
+package string_slice_point2_origin
